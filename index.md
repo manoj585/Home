@@ -21,7 +21,5 @@ The contact page uses the [Formspree](https://formspree.io/){: target="_blank"} 
 
 If you want to use an image in your blog post, you should use the `_plugins/imager.rb` plugin. The image will be responsive. See the post 'Welcome to Jekyll' where it contains an example of how to use this plugin.
 
-Hey Nerd! How is it? You're analyzing me, but are not you using me? Use me now! I'm not into embellishment.
-
 
 [Download](https://github.com/williamcanin/typing-jekyll-template){: target="_blank"}{: .btn-typing}
